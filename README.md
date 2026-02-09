@@ -10,15 +10,16 @@ Me chamo Beatriz Cavalcanti, tenho 27 anos e sou advogada em transição de carr
 
 <p align="left">
   <a href="https://github.com/beamcavalcanti?tab=followers">
-    <img 
+    <img
       alt="Seguidores no GitHub"
-      src="https://img.shields.io/github/followers/beamcavalcanti?label=Seguidores&style=for-the-badge&logo=github"
+      src="https://img.shields.io/github/followers/beamcavalcanti?label=Seguidores&style=for-the-badge&logo=github&color=1f6feb"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/beatriz-medeiros-711301195/">
-    <img 
+    <img
       alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Conectar-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </p>
