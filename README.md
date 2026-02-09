@@ -16,7 +16,7 @@ Me chamo Beatriz Cavalcanti, tenho 27 anos e sou advogada em transição de carr
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/beatriz-medeiros-711301195/](https://www.linkedin.com/in/beatriz-cavalcanti-711301195/">
+  <a href="https://www.linkedin.com/in/beatriz-cavalcanti-711301195/">
     <img
       alt="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-Conectar-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"
