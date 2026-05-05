@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação**
 
-Me chamo Beatriz Cavalcanti, tenho 27 anos e sou advogada em transição de carreira para a tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo Beatriz Cavalcanti, tenho 27 anos e estou em transição de carreira para a tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
