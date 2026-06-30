@@ -4,8 +4,6 @@
 
 </div>
 
-<img src="assets/cat-pixel.png" width="220" align="right">
-
 ```
 ┌──────────────────────────────────────────────────┐
 │  beamcavalcanti@github ~ [session: active]       │
@@ -33,8 +31,6 @@
 └──────────────────────────────────────────────────┘
 ```
 
-<br clear="both">
-
 ---
 
 ## `> ./about_`
@@ -56,7 +52,7 @@
 | **Frontend / Web** | <div align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /></div> |
 | **Backend** | <div align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="40" height="40" /></div> |
 | **Banco de Dados** | <div align="center"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle SQL" /></div> |
-| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" /></div> |
+| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /></div> |
 
 ---
 
@@ -64,9 +60,9 @@
 
 | Projeto | Descrição | Links |
 |:--------|:----------|:-----:|
-| **AgroSat Alert** | Climate alert platform for small-scale farmers, aggregating satellite and weather data. Built collaboratively for FIAP's Global Solution program. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=black)](https://github.com/beamcavalcanti/agrosat-alert) |
-| **OASJ — Direito de Família** | Production landing page built from scratch, hosted on Hostgator, with GTM and Google Ads conversion tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=black)](https://github.com/beamcavalcanti/direitodefamilia-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=black)](https://direitodefamilia.oasj.adv.br) |
-| **OASJ — Internacional** | Production landing page for Brazilian expats, with dynamic WhatsApp routing, GTM and Google Ads tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=black)](https://github.com/beamcavalcanti/internacional-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=black)](https://internacional.oasj.adv.br) |
+| **AgroSat Alert** | Climate alert platform for small-scale farmers, aggregating satellite and weather data. Built collaboratively for FIAP's Global Solution program. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/agrosat-alert) |
+| **OASJ — Direito de Família** | Production landing page built from scratch, hosted on Hostgator, with GTM and Google Ads conversion tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/direitodefamilia-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=white)](https://direitodefamilia.oasj.adv.br) |
+| **OASJ — Internacional** | Production landing page for Brazilian expats, with dynamic WhatsApp routing, GTM and Google Ads tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/internacional-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=white)](https://internacional.oasj.adv.br) |
 
 ---
 
@@ -74,8 +70,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=beamcavalcanti&show_icons=true&theme=tokyonight&border_color=bb9af7&count_private=true&hide_border=false" />
-<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=beamcavalcanti&layout=compact&theme=tokyonight&border_color=bb9af7&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=beamcavalcanti&show_icons=true&theme=tokyonight&border_color=bb9af7&count_private=true" />
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=beamcavalcanti&layout=compact&theme=tokyonight&border_color=bb9af7&langs_count=6" />
 
 </div>
 
