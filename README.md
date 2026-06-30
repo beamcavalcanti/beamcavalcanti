@@ -1,23 +1,32 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;building+from+scratch;in+career+transition;html+%C2%B7+css+%C2%B7+java+%C2%B7+python)](https://github.com/beamcavalcanti)
+
+<br>
+
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│  beamcavalcanti@github ~ [session: active]                   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   $ whoami                                                   │
-│   > beatriz cavalcanti — full stack developer                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  beamcavalcanti@github ~ [session: active]                       │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  $ whoami                                                        │
+│  ┌──────────────────────────────────────────────┐               │
+│  │  beatriz cavalcanti                          │               │
+│  │  full stack developer                        │               │
+│  │  Santos, SP · BR                             │               │
+│  │  PT · EN (Cambridge FCE) · ES (SIELE)        │               │
+│  └──────────────────────────────────────────────┘               │
+│                                                                  │
+│  $ cat about.txt                                                 │
+│  > building interfaces, backends and analytics layers            │
+│  > landing pages in production w/ GTM + Google Ads tracking     │
+│  > FIAP — Systems Analysis and Development                       │
+│  > open to internships and collaborations                        │
+│                                                                  │
+│  $ _                                                             │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 </pre>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;building+from+scratch;in+career+transition)](https://github.com/beamcavalcanti)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=beamcavalcanti&style=flat-square&color=bb9af7&label=profile+views)
-
-<br>
 
 <a href="https://beamcavalcanti.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black" />
@@ -28,7 +37,7 @@
 </a>
 &nbsp;
 <a href="mailto:bmcavalcanti.tech@gmail.com">
-  <img src="https://img.shields.io/badge/email-bb9af7?style=for-the-badge&logo=gmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -37,15 +46,24 @@
 
 ## `> ./about_`
 
-Full Stack Developer studying Systems Analysis and Development at FIAP. I build from scratch: responsive interfaces, backend services, and analytics layers.
-
-In production: landing pages deployed end-to-end, Google Tag Manager setup, and conversion tracking on Google Ads.
-
-`PT` Native &nbsp;·&nbsp; `EN` Cambridge FCE &nbsp;·&nbsp; `ES` SIELE
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Full Stack Developer in career transition<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Building responsive interfaces, backend services and analytics layers<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Production experience: landing pages deployed end-to-end, GTM, Google Ads<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Open to internships and collaborations
+</p>
 
 ---
 
 ## `> ./stack_`
+
+| Categoria | Tecnologias |
+|:----------|:------------|
+| Frontend  | HTML · CSS · JavaScript · TypeScript · React |
+| Backend   | Java · Spring Boot · Python · Oracle SQL |
+| Tools     | Git · Figma · GTM · Google Ads · Hostgator |
+
+<br>
 
 <div align="center">
 
@@ -74,7 +92,7 @@ Climate alert platform for small-scale farmers, aggregating satellite and weathe
 
 **OASJ Landing Pages**
 
-Two production landing pages for a law firm — built from scratch, hosted on Hostgator, with GTM instrumentation and Google Ads conversion tracking configured end-to-end.
+Two production landing pages for a law firm — built from scratch, hosted on Hostgator, with GTM instrumentation and Google Ads conversion tracking.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -98,15 +116,7 @@ Two production landing pages for a law firm — built from scratch, hosted on Ho
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=beamcavalcanti&theme=tokyo-night&bg_color=0d0d0d&color=bb9af7&line=bb9af7&point=bb9af7&area=true&hide_border=false&border_color=bb9af7" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beamcavalcanti/beamcavalcanti/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beamcavalcanti/beamcavalcanti/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/beamcavalcanti/beamcavalcanti/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/beamcavalcanti/beamcavalcanti/output/pacman-contribution-graph.svg" />
 
 </div>
 
@@ -125,7 +135,7 @@ Two production landing pages for a law firm — built from scratch, hosted on Ho
 </a>
 &nbsp;
 <a href="mailto:bmcavalcanti.tech@gmail.com">
-  <img src="https://img.shields.io/badge/email-bb9af7?style=for-the-badge&logo=gmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
