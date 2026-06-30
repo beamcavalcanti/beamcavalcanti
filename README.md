@@ -70,8 +70,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beamcavalcanti&show_icons=true&theme=tokyonight&border_color=bb9af7&count_private=true&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamcavalcanti&layout=compact&theme=tokyonight&border_color=bb9af7&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=beamcavalcanti&show_icons=true&theme=tokyonight&border_color=bb9af7&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=beamcavalcanti&layout=compact&theme=tokyonight&border_color=bb9af7&hide_border=false&langs_count=6" />
 
 </div>
 
