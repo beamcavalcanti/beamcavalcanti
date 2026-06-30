@@ -5,40 +5,31 @@
 <br>
 
 <pre>
-┌──────────────────────────────────────────────────────────────────┐
-│  beamcavalcanti@github ~ [session: active]                       │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  $ whoami                                                        │
-│  ┌──────────────────────────────────────────────┐               │
-│  │  beatriz cavalcanti                          │               │
-│  │  full stack developer                        │               │
-│  │  Santos, SP · BR                             │               │
-│  │  PT · EN (Cambridge FCE) · ES (SIELE)        │               │
-│  └──────────────────────────────────────────────┘               │
-│                                                                  │
-│  $ cat about.txt                                                 │
-│  > building interfaces, backends and analytics layers            │
-│  > landing pages in production w/ GTM + Google Ads tracking     │
-│  > FIAP — Systems Analysis and Development                       │
-│  > open to internships and collaborations                        │
-│                                                                  │
-│  $ _                                                             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐       /\_____/\
+│  beamcavalcanti@github ~ [session: active]       │      (  o   o  )
+├──────────────────────────────────────────────────┤       >  . .  <
+│                                                  │        =  v  =
+│  $ whoami                                        │
+│  ┌──────────────────────────────────────────┐    │
+│  │  beatriz cavalcanti                      │    │
+│  │  full stack developer                    │    │
+│  │  Santos, SP · BR                         │    │
+│  │  PT · EN (Cambridge FCE) · ES (SIELE)    │    │
+│  └──────────────────────────────────────────┘    │
+│                                                  │
+│  $ cat about.txt                                 │
+│  > building interfaces, backends and analytics   │
+│  > landing pages w/ GTM + Google Ads tracking    │
+│  > FIAP — Systems Analysis and Development       │
+│  > open to internships and collaborations        │
+│                                                  │
+│  $ cat hobbies.txt                               │
+│  > games · anime · read · gym · learning         │
+│                                                  │
+│  $ _                                             │
+│                                                  │
+└──────────────────────────────────────────────────┘
 </pre>
-
-<a href="https://beamcavalcanti.vercel.app">
-  <img src="https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/beatriz-cavalcanti-711301195/">
-  <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:bmcavalcanti.tech@gmail.com">
-  <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
@@ -58,18 +49,12 @@
 ## `> ./stack_`
 
 | Categoria | Tecnologias |
-|:----------|:------------|
-| Frontend  | HTML · CSS · JavaScript · TypeScript · React |
-| Backend   | Java · Spring Boot · Python · Oracle SQL |
-| Tools     | Git · Figma · GTM · Google Ads · Hostgator |
-
-<br>
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,python,git,figma&theme=dark&perline=10)](https://skillicons.dev)
-
-</div>
+|:----------|:-----------:|
+| **Linguagens / Frameworks** | <div align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></div> |
+| **Frontend / Web** | <div align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /></div> |
+| **Backend** | <div align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="40" height="40" /></div> |
+| **Banco de Dados** | <div align="center"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle SQL" width="40" height="40" /></div> |
+| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" /></div> |
 
 ---
 
@@ -113,10 +98,6 @@ Two production landing pages for a law firm — built from scratch, hosted on Ho
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=beamcavalcanti&theme=tokyonight&border_color=bb9af7&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamcavalcanti&theme=tokyonight&border_color=bb9af7&hide_border=false&layout=compact&langs_count=6" />
-
-<br><br>
-
-<img width="100%" src="https://raw.githubusercontent.com/beamcavalcanti/beamcavalcanti/output/pacman-contribution-graph.svg" />
 
 </div>
 
