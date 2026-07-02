@@ -52,7 +52,7 @@
 | **Frontend / Web** | <div align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /></div> |
 | **Backend** | <div align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="40" height="40" /></div> |
 | **Banco de Dados** | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65"></div> |
-| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"></div> |
+| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48">&nbsp;<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48">&nbsp;<img src="https://skillicons.dev/icons?i=trello&theme=dark" width="48"></div> |
 
 ---
 
