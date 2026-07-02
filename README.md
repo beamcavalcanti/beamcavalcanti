@@ -51,8 +51,8 @@
 | **Linguagens / Frameworks** | <div align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /></div> |
 | **Frontend / Web** | <div align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40" />&nbsp;<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /></div> |
 | **Backend** | <div align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />&nbsp;<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" width="40" height="40" /></div> |
-| **Banco de Dados** | <div align="center"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle SQL" /></div> |
-| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /></div> |
+| **Banco de Dados** | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65"></div> |
+| **IDEs / Ferramentas** | <div align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="40" height="40" />&nbsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"></div> |
 
 ---
 
@@ -81,17 +81,7 @@
 
 <div align="center">
 
-<a href="https://beamcavalcanti.vercel.app">
-  <img src="https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/beatriz-cavalcanti-711301195/">
-  <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:bmcavalcanti.tech@gmail.com">
-  <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![portfolio](https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black)](https://beamcavalcanti.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-cavalcanti-711301195/) [![email](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmcavalcanti.tech@gmail.com)
 
 <br><br>
 
