@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;building+from+scratch;in+career+transition;html+%C2%B7+css+%C2%B7+java+%C2%B7+python)](https://github.com/beamcavalcanti)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;building+from+scratch;career+changer+building+in+production;html+%C2%B7+css+%C2%B7+java+%C2%B7+python)](https://github.com/beamcavalcanti)
 
 </div>
 
@@ -21,7 +21,7 @@
 │  > building interfaces, backends and analytics   │
 │  > landing pages w/ GTM + Google Ads tracking    │
 │  > FIAP — Systems Analysis and Development       │
-│  > open to internships and collaborations        │
+│  > open to internships, junior roles and collaborations        │
 │                                                  │
 │  $ cat hobbies.txt                               │
 │  > games · anime · read · gym · learning         │
@@ -36,10 +36,10 @@
 ## `> ./about_`
 
 <p>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Full Stack Developer in career transition<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Career changer with hands-on experience building and deploying production web projects<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Building responsive interfaces, backend services and analytics layers<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Production experience: landing pages deployed end-to-end, GTM, Google Ads<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Open to internships and collaborations
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15" />&nbsp; Open to internships, junior roles and collaborations
 </p>
 
 ---
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![portfolio](https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black)](https://beamcavalcanti.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-cavalcanti-711301195/) [![email](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmcavalcanti.tech@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black)](https://beamcavalcanti.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmcavalcanti/) [![email](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmcavalcanti.tech@gmail.com)
 
 <br><br>
 
