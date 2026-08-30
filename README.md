@@ -21,7 +21,7 @@
 │  > building interfaces, backends and analytics   │
 │  > landing pages w/ GTM + Google Ads tracking    │
 │  > FIAP — Systems Analysis and Development       │
-│  > open to internships, junior roles and collaborations        │
+│  > open to internships and junior roles        │
 │                                                  │
 │  $ cat hobbies.txt                               │
 │  > games · anime · read · gym · learning         │
