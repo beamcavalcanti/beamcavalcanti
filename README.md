@@ -59,7 +59,7 @@
 
 | Projeto | Descrição | Links |
 |:--------|:----------|:-----:|
-| **AgroSat Alert** | Climate alert platform for small-scale farmers, aggregating satellite and weather data. Built collaboratively for FIAP's Global Solution program. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/agrosat-alert) |
+| **AgroSat Alert** | Climate alert platform for small-scale farmers, aggregating satellite and weather data. Built collaboratively for FIAP's Global Solution program. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/agrosat-alert) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=white)](https://beamcavalcanti.github.io/agrosat-alert/) |
 | **OASJ — Direito de Família** | Production landing page built from scratch, hosted on Hostgator, with GTM and Google Ads conversion tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/direitodefamilia-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=white)](https://direitodefamilia.oasj.adv.br) |
 | **OASJ — Internacional** | Production landing page for Brazilian expats, with dynamic WhatsApp routing, GTM and Google Ads tracking. | [![repo](https://img.shields.io/badge/repo-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/beamcavalcanti/internacional-oasj) [![live](https://img.shields.io/badge/live-bb9af7?style=flat-square&logo=googlechrome&logoColor=white)](https://internacional.oasj.adv.br) |
 
