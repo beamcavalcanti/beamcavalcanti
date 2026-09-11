@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![portfolio](https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black)](https://beamcavalcanti.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmcavalcanti/) [![email](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmcavalcanti.tech@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=black)](https://beatrizcavalcanti.com) [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmcavalcanti/) [![email](https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmcavalcanti.tech@gmail.com)
 
 <br><br>
 
